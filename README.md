@@ -6,6 +6,8 @@ Comme ça, tout le monde peut factuellement voir que t'es éclaté au jeu en tem
 
 > Tout est **local** : rien n'est envoyé ailleurs que vers **ton propre** webhook Discord.
 
+Pour commencer, rends toi là : **[Installeur](https://github.com/bastien-riado/Wot-stats-bot/releases/tag/Release)** et télécharge le `.exe`
+
 ## 🛠️ Installation
 
 1. Lance le `.exe`.
