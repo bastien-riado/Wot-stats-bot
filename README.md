@@ -11,9 +11,10 @@ Pour commencer, rends toi là : **[Installeur](https://github.com/bastien-riado/
 ## 🛠️ Installation
 
 1. Lance le `.exe`
-2. Windows affiche « éditeur inconnu » (l'app n'est pas signée) →
-   clique **« Informations complémentaires » → « Exécuter quand même »**
-3.Processus d'install classique 
+2. Windows affiche « éditeur inconnu » (l'app n'est pas signée) → clique **« Informations complémentaires » → « Exécuter quand même »**
+3. Fais l'install classique
+
+   
 
 ## ⚙️ Configuration
 
