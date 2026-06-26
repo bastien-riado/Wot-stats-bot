@@ -10,18 +10,21 @@ Pour commencer, rends toi là : **[Installeur](https://github.com/bastien-riado/
 
 ## 🛠️ Installation
 
-1. Lance le `.exe`.
+1. Lance le `.exe`
 2. Windows affiche « éditeur inconnu » (l'app n'est pas signée) →
-   clique **« Informations complémentaires » → « Exécuter quand même »**.
-3. Choisis le dossier d'installation.
+   clique **« Informations complémentaires » → « Exécuter quand même »**
+3.Processus d'install classique 
 
 ## ⚙️ Configuration
 
-1. Le dossier de replays WoT est **détecté automatiquement**.
-2. Crée un webhook : Discord → **Salon ⚙ → Intégrations → Webhooks → Nouveau webhook → Copier l'URL**.
-3. Colle l'URL dans l'app → **Tester** → **Activer**.
+1. Ouvre l'application
+2. Install le mod
+3. Crée un webhook : Discord → **Salon ⚙ → Intégrations → Webhooks → Nouveau webhook → Copier l'URL**.
+4. Colle l'URL dans l'app
 
-C'est tout. L'agent tourne ensuite en tâche de fond et observe tes ignobles performances. 
+C'est tout. Le mod se lance au démarrage du jeu et observe tes ignobles performances.
+
+Pour désactiver les notifications, appuis sur "Désinstaller" dans l'application.
 
 ## ✅ Prérequis
 
@@ -30,6 +33,6 @@ C'est tout. L'agent tourne ensuite en tâche de fond et observe tes ignobles per
 - Ne pas jouer arti (insuffisance d'intellect pour installer le bot)
 
 **Où vont mes données ?** Nulle part, sauf l'embed envoyé à **ton** webhook Discord. La
-lecture des replays est 100 % locale, aucun upload. En utilisant ce bot, tu choisis donc 
+lecture des stats se fait via le client du jeu. En utilisant ce bot, tu choisis donc 
 délibérément de montrer au monde tes résultats exécrables et que les 29 autres personnes dans ta game 
 ne te suffisent pas... 
